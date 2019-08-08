@@ -15,7 +15,7 @@ Credit card numbers were validated using the [luhn algorithm](https://en.wikiped
 CSS classes were toggled to include and remove a line-through text decoration to give the user a valid/not-valid experience.
 <br/>
 
-Credit card numbers were masked with "**$**" 0.5 seconds after a user inputed a card digit to give the user an "your card details are secure from prying eyes" experience.
+Credit card numbers were masked with "**$**" 0.5 seconds after a user inputed a card digit to give the user a "your card details are secure from prying eyes" experience.
 <br/>
 
 Auto-tabbing was implemented, only appropraite characters were allowed at designated input fields (**e.g. only numbers could be inputted in credit card number fields, only letters could be inputted in the name field, only numbers and the symbol '/' could be inputted in the expiry date field just improve the user's experience.
